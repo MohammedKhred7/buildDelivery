@@ -1,0 +1,1 @@
+import{_ as t,c as a,o,al as r}from"./BXlxlkQx.js";const s={},c={class:"container-wrapper"};function n(e,_){return o(),a("main",c,[r(e.$slots,"default")])}const f=t(s,[["render",n]]);export{f as default};
