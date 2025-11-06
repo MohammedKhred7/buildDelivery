@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as n,an as o}from"./BKzAI-Wm.js";const r={},s={class:"container-wrapper"};function c(e,_){return n(),a("main",s,[o(e.$slots,"default")])}const f=t(r,[["render",c]]);export{f as default};
